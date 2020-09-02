@@ -50,5 +50,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=smir45&layout=compact" alt="devded" />
 </p>
-[Website]:https://samirmishra11.com.np/
+[website]:https://samirmishra11.com.np/
 [linkedin]:https://www.linkedin.com/in/samir-mishra-590428b5/
+[github]:https://github.com/smir45
