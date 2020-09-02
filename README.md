@@ -34,8 +34,6 @@
 
 [<img align="left" alt="Python" width="35px" src="https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png" />][github]
 
-[<img align="left" alt="Angel Dhakal | Instagram" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-png-transparent.png" />][github]
-
 [<img align="left" alt="React" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" />][github]
 
 [<img align="left" alt="SQL" width="30px" src="https://freepngimg.com/thumb/database/6-2-database-free-png-image.png" />][github]
@@ -53,9 +51,9 @@
 
 <br/>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=angeldhakal&show_icons=true&hide=contribs" alt="devded" />
+<img src="https://github-readme-stats.vercel.app/api?username=smir45&show_icons=true&hide=contribs" alt="devded" />
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=angeldhakal&layout=compact" alt="devded" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=smir45&layout=compact" alt="devded" />
 </p>
 
 <br/>
