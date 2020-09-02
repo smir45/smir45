@@ -1,20 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Samir 👋
 
-Here are some ideas to get you started:
+## I'm a Student and a Developer
 
-- 🔭 I’m currently working on ReactJs
-- 🌱 I’m currently learning NodeJs
-- 🤔 I’m looking for help with ReactJs, CSS 
-- 💬 Ask me about Frontend Dev
-- 📫 How to reach me: @SamirMishra51
-- 😄 Pronouns: He
-- ⚡ Fun fact: I am a Sketch Artist
----
+- 🔭 I’m currently working on Personal Projects
+- 🌱 I’m currently learning node js
+- 👯 2020 Goals: Contribute more to Open Source projects
+- 📫 How to reach me: [@SamirMishra51][twitter]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: i am a sketch artist
+
+<br />
+
+
+
 ### Connect with me:
 
- [<img align="left" alt="anjaldhakal.com.np" width="35px" src="https://www.pngitem.com/pimgs/m/529-5296115_logo-icon-web-png-png-download-transparent-background.png" />][website] 
+<!-- [<img align="left" width="35px" src="https://www.pngitem.com/pimgs/m/529-5296115_logo-icon-web-png-png-download-transparent-background.png" />][website] -->
 
 [<img align="left" alt="LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+
 <br />
 <br />
 
@@ -45,11 +49,20 @@ Here are some ideas to get you started:
 ---
 
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=smir45&show_icons=true&hide=contribs" alt="devded" />
+### Github Stats
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=smir45&layout=compact" alt="devded" />
+<br/>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=angeldhakal&show_icons=true&hide=contribs" alt="devded" />
+
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=angeldhakal&layout=compact" alt="devded" />
 </p>
-[website]:https://samirmishra11.com.np/
+
+<br/>
+
+[website]: https://samirmishra11.com.np
+[twitter]: https://twitter.com/@SamirMishra51
 [linkedin]:https://www.linkedin.com/in/samir-mishra-590428b5/
-[github]:https://github.com/smir45
+[github]: https://github.com/smir45
+
+
