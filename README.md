@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i am a sketch artist
 
-<br />https://www.seekicon.com/free-icon-download/golang-icon_1.svg
+<br />
 
 
 
