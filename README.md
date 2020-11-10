@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i am a sketch artist
 
-<br />
+<br />https://www.seekicon.com/free-icon-download/golang-icon_1.svg
 
 
 
@@ -41,7 +41,7 @@
 [<img align="left" alt="Linux" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />][github]
 [<img align="left" alt="git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][github]
 [<img align="left" alt="github" width="40px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />][github]
-[<img align="left" alt="golang" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/919/919838.svg" />][github]
+[<img align="left" alt="golang" width="40px" src="https://www.seekicon.com/free-icon-download/golang-icon_1.svg" />][github]
 <br/>
 <br/>
 
