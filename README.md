@@ -40,6 +40,8 @@
 [<img align="left" alt="postgreSQL" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][github]
 [<img align="left" alt="Linux" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />][github]
 [<img align="left" alt="git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][github]
+[<img align="left" alt="git" width="35px" src="https://banner2.cleanpng.com/20180718/cbh/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1bc45884.1915769815318871318042.jpg" />][github]
+[<img align="left" alt="github" width="40px" src="https://w7.pngwing.com/pngs/224/196/png-transparent-web-development-angularjs-javascript-vue-js-world-wide-web-thumbnail.png" />][github]
 [<img align="left" alt="github" width="40px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />][github]
 [<img align="left" alt="golang" width="40px" src="https://www.seekicon.com/free-icon-download/golang-icon_1.svg" />][github]
 <br/>
