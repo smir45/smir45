@@ -35,6 +35,7 @@
 [<img align="left" alt="C++" width="35px" src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" />][github]
 
 [<img align="left" alt="React" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" />][github]
+[<img align="left" alt="Redux" width="35px" src="https://mpng.subpng.com/20181122/fzo/kisspng-redux-react-javascript-library-application-softwar-egghead-intro-to-redux-5bf74afc404894.3460027115429332442633.jpg" />][github]
 
 [<img align="left" alt="SQL" width="30px" src="https://freepngimg.com/thumb/database/6-2-database-free-png-image.png" />][github]
 [<img align="left" alt="postgreSQL" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][github]
