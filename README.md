@@ -39,7 +39,6 @@
 
 [<img align="left" alt="SQL" width="30px" src="https://freepngimg.com/thumb/database/6-2-database-free-png-image.png" />][github]
 [<img align="left" alt="postgreSQL" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />][github]
-[<img align="left" alt="Linux" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />][github]
 [<img align="left" alt="git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][github]
 [<img align="left" alt="git" width="35px" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" />][github]
 [<img align="left" alt="github" width="40px" src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" />][github]
