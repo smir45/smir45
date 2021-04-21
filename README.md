@@ -32,7 +32,7 @@
 [<img align="left" alt="Typescript" width="35px" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />][github]
 [<img align="left" alt="Node js" width="35px" src="https://www.guarana-technologies.com/wp-content/uploads/2017/08/node-js-web-app-development.png" />][github]
 
-[<img align="left" alt="Python" width="35px" src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" />][github]
+[<img align="left" alt="C++" width="35px" src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" />][github]
 
 [<img align="left" alt="React" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" />][github]
 
