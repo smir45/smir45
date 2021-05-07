@@ -14,25 +14,40 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif">
 </a>
 
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **golang and Competitive Programming**
-- 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for  **Internships**
+- 🔭 I’m currently working on **Android, Data Science and Web Development**
+- 🌱 I’m currently learning **Artificial Intelligence and Competitive Programming**
+- 👯 I’m looking to collaborate on **Android, Data Science or Web Development**
+- 🤔 I’m looking for help with **Internships**
+- 💬 Ask me about Anything [here](https://github.com/JayantGoel001/JayantGoel001/issues/1)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 - ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
+- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House : **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Slytherin_ClearBG.png">
 
 <br/>
 <br/>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/smir45" alt="profile views"> •  
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/smir45?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
+  <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •  
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="Total Stars">
 </p>
 <p align="center">
   <code>
+    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FJayantGoel001" alt="Github Profile Score">
+  </code>
+</p>
 
+#
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/JayantGoel001)
+
+<p align="center">
+  <a>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
+  </a>
+</p>
 
 #
 
@@ -67,6 +82,7 @@
 <br/>
 
 #
+
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
@@ -85,4 +101,15 @@
 </details>
 <br>
 
+#
 
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
+  <strong>WakaTime Stats : </strong>
+</summary>
+
+<a target="_blank">
+  <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
+</a>
+<br>
+<br>
