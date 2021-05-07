@@ -13,7 +13,7 @@
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif">
 </a>
-      -I'm a **Student**
+-I'm a **Student**
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **golang and Competitive Programming**
 - 👯 I’m looking to collaborate on **Web Development**
