@@ -1,15 +1,37 @@
-### Hi there, I'm Samir 👋
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Hi.gif" width="40px" />
+  </a>
+</h1>
 
-## I'm a Student and a Developer
+<br/>
+<br/>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif">
+</a>
 
-- 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently learning node js
-- 👯 2020 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: [@SamirMishra51][twitter]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: i am a sketch artist
+- 🔭 I’m currently working on **Student and Web Development**
+- 🌱 I’m currently learning **golang and Competitive Programming**
+- 👯 I’m looking to collaborate on **Web Development**
+- 🤔 I’m looking for  **Internships**
+- 😄 Pronouns : **He/Him/His**
+- ⚡ Fun fact : **Best Part Of The Journey Is : *It Ends***
+- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png" width="20px" height="20px"/>  Hogwarts House : **Slytherin** <img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/Slytherin_ClearBG.png">
 
-<br />
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •  
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="Total Stars">
+</p>
+<p align="center">
+  <code>
 
 
 
