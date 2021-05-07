@@ -73,3 +73,11 @@
 </p>
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/smir45?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<br/>
+
+<a href="https://github.com/syedammar111">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=smir45&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smir45&theme=buefy&layout=compact" />
+</a>
+
+<br/>
