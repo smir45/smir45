@@ -29,11 +29,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/smir45?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
 </p>
-<p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%smir45" alt="Github Profile Score">
-  </code>
-</p>
+
 
 #
 
