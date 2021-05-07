@@ -37,19 +37,7 @@
 
 #
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=smir45&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/smir45)
-
-<p align="center">
-  <a>
-    <img height="150" width="175" src="https://github.com/smir45/smir45/blob/master/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smir45&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/smir45/smir45/blob/master/right.png">
-  </a>
-</p>
-
-#
-
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/smir45/smir45/blob/master/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/github.gif"></a>
 <br/>
 
 **LANGUAGES AND TOOLS:**  
@@ -80,34 +68,3 @@
 <br/>
 
 #
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
-  <strong>Github Stats : </strong>
-</summary>
-<br>
-  
-<p align="center">
-  <a href="https://github.com/smir45">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=smir45&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/smir45">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smir45&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
-</details>
-<br>
-
-#
-
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
-  <strong>WakaTime Stats : </strong>
-</summary>
-
-<a target="_blank">
-  <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@smir45/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
-</a>
-<br>
-<br>
