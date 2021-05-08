@@ -50,7 +50,6 @@
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
-
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></code>
