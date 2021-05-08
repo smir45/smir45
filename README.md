@@ -48,7 +48,6 @@
 <code><img height="40" width="40" src="https://png2.cleanpng.com/sh/f572bd380384fe86feec69ac07e47d62/L0KzQYm3VcI5N6RBR91yc4Pzfri0hB9wb51qRdV1b4P4gra0lP9wdKQye9H2cIX3dcO0kB9nfKhmitc2b4Dofn76jCVza5YyTdQ5Y0a7cbboV8QzbGczTKM9M0O8RoG4VcI4PWQAUKoBNki4QXB3jvc=/kisspng-google-closure-tools-computer-software-open-source-5b0c68aea742d6.4143396015275398866851.png"></code>
 
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
-
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
