@@ -83,14 +83,21 @@
 
 
 #### ℹ️ Examples workflows
-<br/>
 
-<a href="https://github.com/syedammar111">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=smir45&theme=buefy&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smir45&theme=buefy&layout=compact" />
-</a>
+### Github Stats
 
 <br/>
+<p align="left">
+
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SatyamDhungana01&layout=compact" alt="devded" />
+</p>
+
+<br/>
+
+[linkedin]:https://www.linkedin.com/in/satyam-dhungana-a6aa511b1/
+[github]: https://github.com/SatyamDhungana01
+
+
 
 ### 📅 Isometric commit calendar
 
