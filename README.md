@@ -89,13 +89,13 @@
 <br/>
 <p align="left">
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SatyamDhungana01&layout=compact" alt="devded" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=smir45&layout=compact" alt="devded" />
 </p>
 
 <br/>
 
-[linkedin]:https://www.linkedin.com/in/satyam-dhungana-a6aa511b1/
-[github]: https://github.com/SatyamDhungana01
+[linkedin]:https://www.linkedin.com/in/smir45/
+[github]: https://github.com/smir45
 
 
 
