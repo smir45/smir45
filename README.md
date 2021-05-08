@@ -82,7 +82,7 @@
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/smir45?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 
-#### ℹ️ Examples workflows
+
 
 
 <br/>
@@ -103,8 +103,7 @@
 
 <br/>
 
-[linkedin]:https://www.linkedin.com/in/smir45/
-[github]: https://github.com/smir45
+
 
 
 
@@ -122,3 +121,7 @@ The *isocalendar* plugin displays an isometric view of your commits calendar, al
     
   </td>
 </table>
+
+### Find me on
+[linkedin]:https://www.linkedin.com/in/smir45/
+[github]: https://github.com/smir45
