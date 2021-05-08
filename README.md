@@ -84,6 +84,7 @@ The *isocalendar* plugin displays an isometric view of your commits calendar, al
       <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.fullyear.svg">
     </details>
     <img width="900" height="1" alt="">
+    
   </td>
 </table>
 
