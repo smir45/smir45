@@ -31,9 +31,7 @@
   <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
 </p>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue)
 
 
 #
