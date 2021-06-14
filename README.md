@@ -26,12 +26,10 @@
 <br/>
 
 
-<p align="center">
-  ![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue  •  
+<p align="center">  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/smir45?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/smir45?label=Stars" alt="Total Stars">
 </p>
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue)
 
 
 #
