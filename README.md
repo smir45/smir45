@@ -92,7 +92,7 @@
 <p align="center">
 <a href="https://github.com/smir45">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smir45&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smir45&layout=compact&exclude_lang=java+r&theme=vue" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=smir45&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
 </p>
 
