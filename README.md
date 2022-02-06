@@ -13,7 +13,7 @@
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
 </a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hemraj183" alt="Hemraj183" /></a> </p>
+
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Golang and Competitive Programming**
@@ -66,19 +66,6 @@
 
 
 
-### 📅 Isometric commit calendar
-
-The *isocalendar* plugin displays an isometric view of your commits calendar, along with a few additional stats like current streak and commit average per day.
-
-<table>
-  <td align="center">
-    <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.svg">
-    <details><summary>Full year version</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.fullyear.svg">
-    </details>
-    <img width="900" height="1" alt="">
-    
-  </td>
-</table>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smir45" alt="smir45" /></a> </p>
 
 
