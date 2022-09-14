@@ -28,6 +28,8 @@
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/smir45?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
+| <a href="https://github.com/smir45/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=smir45&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Samir's github stats" /></a> | <a href="https://github.com/smir45/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smir45&layout=compact&theme=buefy&hide_border=true" /></a> |
+
 
 
 
